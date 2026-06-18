@@ -9,6 +9,10 @@ export default function Home() {
         <title>Estación Central de Sodor | Thomas y sus Amigos SEO</title>
         <meta name="description" content="Bienvenidos a la Estación Central. Explora las rutas más rápidas y optimizadas de la isla de Sodor junto a Thomas." />
         <meta name="keywords" content="Thomas el tren, Sodor, optimización de vías, locomotoras eficientes" />
+
+        <meta name="google-site-verification" content="xMBDVA2qRGctFPX-DC5GynMOVJUhq5L-lcjf3A7OdZs" />
+
+        
         <meta property="og:title" content="Estación Central de Sodor - ¡En marcha!" />
         <meta property="og:description" content="Tu viaje hacia el alto rendimiento web empieza aquí en Sodor." />
         <meta property="og:image" content="/images/seo-image.png" />
