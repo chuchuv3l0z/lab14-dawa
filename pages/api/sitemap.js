@@ -1,4 +1,4 @@
-const BASE_URL = "https://mi-sitio-sodor.com";
+const BASE_URL = "https://lab14-dawa-31wc.onrender.com"; // <-- Aquí ya puse tu dominio real
 
 // Simulación de consulta a base de datos o CMS externo
 async function obtenerPostsDesdeBD() {
@@ -10,7 +10,7 @@ async function obtenerPostsDesdeBD() {
 }
 
 export default async function handler(req, res) {
-  // 1. Rutas fijas de la app (Ahora con las 5 páginas)
+  // 1. Rutas fijas de la app
   const rutasEstaticas = [
     "/", 
     "/locomotoras", 
